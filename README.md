@@ -14,6 +14,21 @@ pnpm dev
 bun dev
 ```
 
+
+```bash
+
+npm install @mui/material @emotion/react @emotion/styled 
+# and
+npm install @mui/x-data-grid lucide-react
+# and
+npm install numeral recharts uuid axios
+# Dependencies
+npm i -D @types/node @types/uuid @types/numeral
+# and
+npm i -D tw-colors 
+
+```
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
