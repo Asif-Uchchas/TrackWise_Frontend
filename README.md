@@ -22,6 +22,9 @@ npm install @mui/material @emotion/react @emotion/styled
 npm install @mui/x-data-grid lucide-react
 # and
 npm install numeral recharts uuid axios
+# and
+npm i react-redux @reduxjs/toolkit dotenv
+
 # Dependencies
 npm i -D @types/node @types/uuid @types/numeral
 # and
