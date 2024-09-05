@@ -24,6 +24,8 @@ npm install @mui/x-data-grid lucide-react
 npm install numeral recharts uuid axios
 # and
 npm i react-redux @reduxjs/toolkit dotenv
+# and
+npm i redux-persist
 
 # Dependencies
 npm i -D @types/node @types/uuid @types/numeral
